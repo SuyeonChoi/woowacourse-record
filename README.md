@@ -165,6 +165,7 @@
 | JDBC 라이브러리 구현하기/step3 | [jwp-dashboard-jdbc/step3](https://github.com/SuyeonChoi/jwp-dashboard-jdbc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/220) |                                     |                                             |
 |      레거시 코드 리팩터링/step1       | [jwp-refactoring/step1](https://github.com/SuyeonChoi/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/286) | [배카라](https://github.com/seong-wooo)  | [판다](https://github.com/woong7) |
 |      레거시 코드 리팩터링/step2       | [jwp-refactoring/step2](https://github.com/SuyeonChoi/jwp-refactoring/tree/step2) |     [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/311) |                                     |                                             |
+|      레거시 코드 리팩터링/step3       | [jwp-refactoring/step3](https://github.com/SuyeonChoi/jwp-refactoring/tree/step3) |     [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/445) |                                     |                                             |
 
 #### 기록
 - [JPA N+1](https://github.com/SuyeonChoi/TIL/issues/21)
