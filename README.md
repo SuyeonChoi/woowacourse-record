@@ -182,10 +182,7 @@
 <br>
 
 
-## 🎬 테코톡 & 글쓰기
-
-#### 테코톡
-[[10분 테코톡] ⛏ 잉, 페퍼의Spring Data JPA 삽질일지](https://www.youtube.com/watch?v=kJexMyaeHDs)
+## ✍️ 글쓰기
 
 #### 글쓰기 대시보드
 
